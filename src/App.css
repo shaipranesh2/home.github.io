@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.App{
+    font-family: "Poppins";
+    background-color: black;
+    
+    
+}
+.nav-bar{
+    color: white;
+    padding: 3.2%;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    align-content: center;
+    text-decoration: none;
+
+}
+.welcome{
+    text-align: center;
+    
+    color: white;
+    background-image: url(/public/backgi.svg);
+    
+    
+    background-blend-mode:hue;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+a{
+    color: white;
+}
+a:hover{
+    color: yellow;
+}
+.Name,.Experience,.Skills,.Home,.Projects,.Courses,.Blog,.Resume,.Contact{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.Name{
+    font-weight: bolder;
+    color: yellow
+}
+.welcome-text{
+    padding: 5%;
+    font-size:1.5cm;
+    
+}
+.intro{
+    padding-left: 6.4%;
+    padding-right: 6.4%;
+    padding-bottom: 2%;
+    color: white;
+}
+.Hello{
+    color: yellow;
+}
+.Main{
+    padding-left: 6.4%;
+    padding-right: 6.4%;
+    padding-bottom: 2%;
+    color: white;
+}
+.blog-color{
+    color:yellow;
+}
+.Main-1st-color,.Main-2nd-color{
+    color:yellow;
+}
