@@ -4,18 +4,18 @@ import React from "react";
     return(
         <div className="Main">
             <h2 className="Main-1st-color">Short-Term Interest</h2>
-            <p>In India, over 400 people are killed in vehicle related accidents everyday. I believe this problem can be solved with the advent of self-driving cars in developing countries like India.</p>
-            <p>My current work has been on different areas in computer vision, developing my skills in helping intelligent agents perceive the world better. I want to make AI software more reliable and robust. For more details, please see my Experience and Projects.</p>
+            <p>Neural Networks can act as function approximators and has the power to better predict and exploit data in a manner never seen before!</p>
+            <p>My current work has been on different areas developing my skills in helping intelligent agents perceive the world better. I want to make AI software more reliable, robust and open-source to all. For more details, please see my Experience and Projects.</p>
             <p>In this regard, I have worked extensively with neural networks. My research interests with neural networks are two-fold:</p>
             <ul>
-                <li>Studying the applications of deep learning and how it can be used to solve problems in computer vision.</li>
-                <li>Investigating the very nature of neural networks and developing a deeper theoretical understanding about how they work and model data.</li>
+                <li>Studying the applications of deep learning and how it can be used to solve problems in Sciences.</li>
+                <li>Investigating deeplearning methods for better usage multi-modal data (Speech, Vision, Gesture data, etc.).</li>
                 
             </ul>
             <br></br>
             <br></br>
             <h2 className="Main-2nd-color">Long-Term Goal</h2>
-            <p>In the long run, I want to work on the problem of general AI to develop tools that can solve increasingly complex tasks for humans - making our lives much safer, more comfortable and more interesting.</p>
+            <p>In the long run, I want to work on the problem of Artificial General Intelligence(AGI), and research on the new methods to acheive it to make our lives simpler and break out from the everyday mundane activities!! </p>
             <p>"Just as the agricultural revolution has freed us from spending our waking hours picking crops by hand in the fields, the AI revolution could free us from menial, repetitive, and mindless work."
 
 ~ Eric Schmidt, Executive Chairman, Alphabet;
